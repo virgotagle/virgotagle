@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virgotagle
+- 👋 Hi, I’m Virgo Tagle
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning Rust
 
