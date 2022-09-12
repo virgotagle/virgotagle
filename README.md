@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Virgo Tagle
+- 👋 Hi, I’m Floyd Pagar
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning Rust
 
