@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Floyd Pagar
+- 👋 Hi, I’m Floyd Virgo
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning Rust
 
