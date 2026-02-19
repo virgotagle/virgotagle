@@ -38,4 +38,4 @@ I believe that if a task is repetitive, it deserves to be automated. When I am n
 I'm always open to discussing automation, data engineering, or new collaborative projects.
 
 * **Email**: [pagarfloyd@gmail.com](mailto:pagarfloyd@gmail.com)
-* **GitHub**: [virgotagle](https://www.google.com/search?q=https://github.com/virgotagle)
+* **LinkedIn**: [floydpagar](www.linkedin.com/in/floydpagar)
